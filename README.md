@@ -1,0 +1,2 @@
+# Kuwwatpanel.workers.app
+Kuwwat
